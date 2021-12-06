@@ -1,0 +1,14 @@
+bs4
+lxml
+nltk
+tqdm
+numpy
+torch
+pandas
+seaborn
+sklearn
+snorkel
+openpyxl
+ipywidgets
+jupyterlab
+matplotlib
