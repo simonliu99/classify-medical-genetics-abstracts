@@ -17,4 +17,9 @@ This code was run on `Python 3.8.12` due to compatibility issues with the Snorke
 Sample training scripts for the [`RandomForestClassifier`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) and [`BertForDocumentClassification`](https://github.com/AndriyMulyar/bert_document_classification) are included in the [`scripts/`](scripts) folder. BERT training and prediction will realistically require a CUDA-enabled GPU system. [`notebooks/pubmed-snorkel.ipynb`](notebooks/pubmed-snorkel.ipynb) will not run properly if the data regeneration steps above are not followed.
 
 ## Acknowledgement
-If you found this project to be useful, consider citing this repository for now. Our paper is currently in submission. Thanks for reading!
+This research was supported by the Intramural Research Program of the National Human Genome Research Institute, National Institutes of Health.  This work utilized the computational resources of the NIH [HPC Biowulf cluster](http://hpc.nih.gov).
+
+If you found this project to be useful, consider citing our paper below. Thanks for reading!
+
+## Citation
+Ledgister Hanchard, S.\*, Dwyer, M.C.\*, Liu, S.\*, Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., Solomon, B.D. Scoping review and classification of deep learning in medical genetics. [In submission].  \**Equal contributions*.
