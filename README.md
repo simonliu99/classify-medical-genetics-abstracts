@@ -22,6 +22,4 @@ This research was supported by the Intramural Research Program of the National H
 If you found this project to be useful, consider citing our paper below. Thanks for reading!
 
 ## Citation
-Ledgister Hanchard, S.\*, Dwyer, M.C.\*, Liu, S.\*, Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., Solomon, B.D. Scoping review and classification of deep learning in medical genetics. [In submission].  \**Equal contributions*.
-
 Ledgister Hanchard, S. E.\*, Dwyer, M. C.\*, Liu, S.\*, Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., & Solomon, B. D. (2022). Scoping review and classification of Deep Learning in Medical Genetics. *Genetics in Medicine*. https://doi.org/10.1016/j.gim.2022.04.025 \**Co-first authors*.
